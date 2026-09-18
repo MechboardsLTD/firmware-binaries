@@ -12,4 +12,5 @@
 | totem_right-seeeduino_xiao_ble-zmk.uf2 | Studio enabled | Seeed XIAO BLE |
 | totem_left_experimental.uf2 | Studio enabled, locking disabled, ble_expermental, tx_pwr_plus_8 | Seeed XIAO BLE |
 | totem_right_experimental.uf2 | Studio enabled, locking disabled, ble_expermental, tx_pwr_plus_8 | Seeed XIAO BLE |
+
 ![totem](image.png)
